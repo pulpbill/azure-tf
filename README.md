@@ -11,5 +11,5 @@ Check azure cli version:
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 Check tf version:
-`az version`
+`terraform version`
 
