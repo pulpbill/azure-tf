@@ -28,3 +28,8 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 Check tf version:
 `terraform version`
 
+# Reference Docs:
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine
+
+https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform?tabs=azure-cli
